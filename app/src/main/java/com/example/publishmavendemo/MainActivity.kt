@@ -10,6 +10,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
 import com.example.publishmavendemo.databinding.ActivityMainBinding
+import com.guof.dog.DogFactory
 
 class MainActivity : AppCompatActivity() {
 
